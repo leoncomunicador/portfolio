@@ -1,1 +1,1 @@
-Arquivo criado para fazer os trabalhos e exercícios do curso da Trybe
+Portfólio do bloco 3, concluído.

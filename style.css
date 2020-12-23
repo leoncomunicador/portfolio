@@ -1,0 +1,148 @@
+* {
+  border: 0;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: gray;
+}
+
+header {
+  background-color: #81b29a;
+  padding: 10px;
+  width: 100%;
+  position: fixed;
+  top: 0;
+}
+
+#sobre {
+  margin-top: 50px;
+  margin-bottom: 10px;
+}
+
+h1 {
+  float: right;
+  display: inline;
+  margin-right: 280px;
+}
+
+.buttom {
+  text-decoration: none;
+  background-color: orange;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.buttom:hover {
+  background-color: blue;
+}
+
+.blocao {
+  margin-top: 150px;
+  margin-left: 10px;
+}
+
+.photo {
+  border-radius: 10px;
+
+  width: 30%;
+
+  border: 10px ridge orange;
+}
+
+.about {
+  width: 50%;
+  text-align: justify;
+  margin-right: 100px;
+  float: right;
+  color: black;
+}
+
+.about a {
+  text-decoration: none;
+}
+
+article {
+  margin-top: 20px;
+}
+
+.hability {
+  margin-left: 30px;
+  clear: both;
+  margin-left: 30px;
+}
+
+.hability ul {
+  margin-left: 20px;
+}
+
+#habilidades {
+  margin-bottom: 10px;
+}
+
+nav {
+  margin-top: auto;
+  clear: both;
+  display: inline;
+}
+
+nav ul {
+  display: inline;
+}
+
+nav li {
+  margin-top: 20px;
+  margin-right: 50px;
+  list-style-type: none;
+  display: inline-block;
+  text-align: center;
+}
+
+.blog {
+  text-decoration: none;
+  color: black;
+}
+
+.about_blog {
+  margin-left: 30px;
+  margin-top: 40px;
+}
+
+h3 {
+  margin-top: 30px;
+  margin-left: 30px;
+}
+
+.channels {
+  width: 100%;
+  margin-top: 30px;
+  display: inline;
+}
+
+.canais {
+  display: inline-block;
+  margin-left: 30px;
+  transition: 1s;
+}
+
+.canais:hover {
+  transform: scale(1.5);
+}
+
+.canais img {
+  border-radius: 20px;
+  margin-top: 20px;
+}
+
+footer {
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 30px;
+  margin-top: 50px;
+  bottom: 0;
+}
